@@ -1,0 +1,10 @@
+print_color
+fastapi
+mangum
+python-dotenv
+requests
+streamlit
+uvicorn
+
+
+
